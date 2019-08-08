@@ -1,7 +1,7 @@
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\Application.java
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\exception\GlobalExceptionHandler.java
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\exception\ResourceNotFoundException.java
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\controller\UserController.java
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\model\User.java
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\exception\ErrorDetails.java
-E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\teknoglobal\repository\UserRepository.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\controller\UserController.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\exception\ResourceNotFoundException.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\repository\UserRepository.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\model\User.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\exception\GlobalExceptionHandler.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\Application.java
+E:\BOOTCAMP\Latihan\Spring-Boot\registration\src\main\java\com\AGTbookstore\exception\ErrorDetails.java
